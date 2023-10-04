@@ -1,0 +1,32 @@
+.banner {
+  background-image: url('../images/banner.jpg');
+  background-size: cover; 
+  background-position: center; 
+  padding: 150px 0;
+  text-align: center;
+}
+
+.banner h1 {
+  color: white;
+  font-size: 50px;
+}
+
+.banner h2 {
+  color: white;
+  font-size: 30px;
+  font-weight: lighter;
+  opacity: 0.8;
+}
+
+.banner .btn-blue {
+  color: white;
+  background-color: #007BFF; 
+  padding: 10px 20px; 
+  border-radius: 4px; 
+  text-decoration: none;
+  font-weight: bold;
+}
+
+.banner .btn-blue:hover {
+  background-color: #0056b3; 
+}
